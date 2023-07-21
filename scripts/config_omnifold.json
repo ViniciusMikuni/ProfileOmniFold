@@ -1,0 +1,11 @@
+{
+    'FILE_MC':['ttbar_2018_elec.root'],
+    'FILE_DATA':['ttbar_2018_elec.root'],
+    'NITER': 5,
+    'NTRIAL':1,
+    'LR': 1e-4,
+    'BATCH_SIZE': 128,
+    'EPOCHS': 500,
+    'NAME':'top_mass',
+    'NPATIENCE': 50,
+}
